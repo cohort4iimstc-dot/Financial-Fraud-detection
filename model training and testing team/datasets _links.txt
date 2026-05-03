@@ -1,0 +1,5 @@
+sample datasets :
+
+Financial Fraud Detection Dataset https://share.google/ALM6mUCvbtJbKlQGf
+
+Credit Card Fraud Detection https://share.google/V0WIPwpgaiL5xOiqF
